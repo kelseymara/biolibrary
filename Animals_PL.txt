@@ -1,0 +1,585 @@
+animal('Snub-nosed monkey', 'mammal').
+animal('catfish', 'fish').
+animal('panda', 'mammal').
+animal('penguin', 'Bird').
+animal('seahorse', 'fish').
+animal('snowy owl', 'bird').
+animal('kangaroo rat', 'mammal').
+animal('arctic hare', 'mammal').
+animal('proboscis monkey', 'mammal').
+animal('African spurred tortoise', 'reptile').
+
+animal('Andean mountain cat', 'mammal').
+animal('Cassowary', 'bird').
+animal('Coelacanth', 'fish').
+animal('Giraffe', 'mammal').
+animal('Hippo', 'mammal').
+animal('Honey Badger', 'mammal').
+animal('Japanese Macaque', 'mammal').
+animal('Kangaroo', 'marsupial').
+animal('Komodo dragon' , 'reptile').
+animal('Lion', 'mammal').
+animal('Octopus', 'mollusk').
+animal('Peregrine falcon', 'bird').
+animal('Red-crowned crane', 'bird').
+animal('Snow Crab', 'crustacean').
+animal('Squirrel', 'mammal').
+animal('Taipan', 'snake').
+
+animal('Tibetan fox', 'mammal').
+animal('Tomato Frog', 'amphibian').
+animal('Wolverine', 'mammal').
+animal('alaskan wolf', 'mammal').
+animal('axolotl', 'amphibian').
+animal('barn owl', 'bird').
+animal('bobcat', 'mammal').
+animal('camel', 'mammal').
+animal('cheetah', 'mammal').
+animal('elephant', 'mammal').
+animal('ermine', 'mammal').
+animal('fennec fox', 'mammal').
+animal('gibbon', 'mammal').
+animal('grey wolf', 'mammal').
+animal('grizzly bear', 'mammal').
+animal('hummingbird', 'bird').
+animal('iguana', 'reptile').
+animal('kangaroo', 'marsupial').
+animal('komodo dragon', 'reptile').
+animal('lemur', 'mammal').
+animal('lion', 'mammal').
+animal('lynx', 'mammal').
+animal('moose', 'mammal').
+animal('morkie', 'mammal').
+animal('narwhal', 'mammal').
+animal('northern flying squirrel', 'mammal').
+animal('ocelot', 'mammal').
+animal('panda', 'mammal').
+animal('parrot', 'bird').
+animal('penguin', 'bird').
+animal('persian longhair', 'mammal').
+
+
+animal('pig', 'mammal').
+animal('platypus', 'mammal').
+animal('prairie dog', 'mammal').
+animal('quokka', 'marsupial').
+animal('raccoon', 'mammal').
+animal('red fox', 'mammal').
+animal('red panda', 'mammal').
+animal('sloth', 'mammal').
+animal('snail', 'invertebrate').
+animal('snow leopard', 'mammal').
+animal('snowshoe hare', 'mammal').
+animal('swallowtail butterfly', 'invertebrate').
+animal('tardigrade', 'microscopic invertebrate').
+animal('tiger', 'mammal').
+animal('woodpecker', 'bird').
+animal('yak', 'mammal').
+animal('zebra', 'mammal').
+animal('bald eagle', 'bird').
+animal('giraffe', 'mammal').
+animal('red kangaroo', 'mammal').
+animal('African Elephant', 'mammal').
+animal('American Crow', 'bird').
+animal('Arctic Fox', 'mammal').
+animal('Donkey', 'mammal').
+animal('Guinea pig', 'mammal').
+animal('Goblin Shark', 'fish').
+animal('Muskrat', 'mammal').
+animal('Tufted Deer', 'mammal').
+animal('Alpine Ibex', 'mammal').
+animal('Axolotl', 'amphibian').
+animal('Black Bear', 'mammal').
+animal('Blobfish', 'fish').
+animal('Blue Whale', 'mammal').
+animal('Capybara', 'mammal').
+animal('Caspian Whipsnake', 'reptile').
+animal('Cheetah', 'mammal').
+animal('Crocodile', 'reptile').
+animal('Dolphin', 'marine mammal').
+animal('Fossa', 'mammal').
+animal('Hawk', 'bird').
+animal('Hedgehog', 'mammal').
+animal('Hoatzin', 'bird').
+animal('Hyena', 'mammal').
+animal('Iguana', 'reptile').
+animal('Kinkajou', 'mammal').
+animal('Maned Wolf', 'mammal').
+animal('Northern Cardinal', 'avian').
+animal('Ocelot', 'mammal').
+animal('Pangolin', 'mammal').
+animal('Swamp Wallaby', 'mammal').
+animal('Toucan', 'bird').
+animal('Water Deer', 'mammal').
+animal('Whitetail Deer', 'mammal').
+animal('golden retriever', 'mammal').
+
+
+description('axolotl', 'cylindrical bodies, short legs, a relatively long tail and feathery external gills').
+description('capybara', 'giant cavy rodent').
+description('iguana', 'large, spiny lizard').
+description('panda', 'Large bear with black and white fur').
+description('penguin', 'Flightless bird with black and white plumage').
+description('pig', 'bulky body with short legs').
+description('sloth', 'lethargic, long arms').
+description('woodpecker', 'red-crested bird').
+description('zebra', 'Medium sized quadruped with a black and white striped coat and short black mane.').
+
+diet('arctic hare', 'herbivore').
+diet('red panda', 'omnivore').
+diet('snowy owl', 'carnivore').
+diet('alpine ibex', 'herbivore').
+diet('kangaroo rat', 'herbivore').
+diet('proboscis monkey', 'frugivore').
+diet('proboscis monkey', 'folivore').
+diet('African spurred tortoise', 'herbivore').
+diet('Andean mountain cat', 'carnivore').
+diet('Cassowary', 'omnivore').
+diet('Coelacanth', 'carnivore').
+diet('Giraffe', 'herbivore').
+diet('Honey Badger', 'omnivore').
+diet('Japanese Macaque', 'insectivore').
+diet('Japanese Macaque', 'frugivore').
+diet('Kangaroo', 'herbivore').
+diet('Komodo dragon', 'carnivore').
+diet('Octopus', 'carnivore').
+diet('Peregrine falcon', 'carnivore').
+diet('Red-crowned crane', 'carnivore').
+diet('Snow Crab', 'carnivore').
+diet('Snub-nosed monkey', 'herbivore').
+diet('Squirrel', 'herbivore').
+diet('Taipan', 'carnivore').
+diet('Tibetan fox', 'carnivore').
+diet('Tomato Frog', 'insectivore').
+diet('Wolverine', 'carnivore').
+diet('alaskan wolf', 'carnivore').
+diet('axolotl', 'carnivore (worms, insects, small fish)').
+diet('barn owl', 'carnivore').
+diet('bobcat', 'carnivore').
+diet('camel', 'herbivore').
+diet('catfish', 'carnivore').
+diet('cheetah', 'carnivore').
+diet('elephant', 'herbivore').
+diet('ermine', 'carnivore').
+diet('fennec fox', 'omnivore').
+diet('gibbon', 'omnivore').
+diet('grey wolf', 'carnivore').
+diet('grizzly bear', 'omnivore').
+diet('hippo', 'omnivore').
+diet('hummingbird', 'omnivore').
+diet('iguana', 'herbivore').
+diet('kangaroo', 'herbivore').
+diet('komodo dragon', 'carnivore').
+diet('lemur', 'omnivore').
+diet('lion', 'carnivore').
+diet('lynx', 'carnivore').
+diet('moose', 'herbivore').
+diet('morkie', 'omnivore').
+diet('narwhal', 'carnivore').
+diet('northern flying squirrel', 'omnivore').
+diet('ocelot', 'carnivore').
+diet('panda', 'herbivore').
+diet('parrot', 'omnivore').
+diet('penguin', 'carnivore').
+diet('persian longhair', 'omnivore').
+diet('pig', 'omnivore').
+diet('platypus', 'carnivore').
+diet('platypus', 'carnivore (insects, worms, shrimp)').
+diet('prairie dog', 'herbivore').
+diet('quokka', 'herbivore').
+diet('raccoon', 'omnivore').
+diet('red fox', 'carnivore').
+diet('red panda', 'omnivore').
+diet('seahorse', 'omnivore').
+diet('sloth', 'omnivore').
+diet('snail', 'herbivore').
+diet('snow leopard', 'carnivore').
+diet('snowshoe hare', 'herbivore').
+diet('swallowtail butterfly', 'herbivore').
+diet('tardigrade', 'omnivore (algae, bacteria, other microscopic organisms)').
+diet('tiger', 'carnivore').
+diet('woodpecker', 'omnivore').
+diet('yak', 'herbivore').
+diet('zebra', 'herbivore').
+diet('bald_eagle', 'carnivore').
+diet('giraffe', 'herbivore').
+diet('red_kangaroo', 'herbivore').
+diet('African Elephant', 'herbivore').
+diet('American Crow', 'omnivore').
+diet('Arctic Fox', 'omnivore').
+diet('Bison', 'herbivore').
+diet('Dingo', 'carnivore').
+diet('Goblin Shark', 'carnivore').
+diet('Red Kangaroo', 'herbivore').
+diet('Rhinoceros', 'herbivore').
+diet('axolotl', 'carnivore').
+diet('bald eagle', 'carnivore').
+diet('black bear', 'omnivore').
+diet('blobfish', 'carnivore').
+diet('blue whale', 'herbivore').
+diet('capybara', 'herbivore').
+diet('caspian whipsnake', 'carnivore').
+diet('cheetah', 'carnivore').
+diet('crocodile', 'carnivore').
+diet('dolphin', 'carnivore').
+diet('fossa', 'carnivore').
+diet('hawk', 'carnivore').
+diet('hedgehog', 'omnivore').
+diet('hoatzin', 'herbivore').
+diet('hyena', 'carnivore').
+diet('iguana', 'herbivore').
+diet('kinkajou', 'omnivore').
+diet('maned wolf', 'omnivore').
+diet('northern cardinal', 'omnivore').
+diet('ocelot', 'carnivore').
+diet('pangolin', 'insectivore').
+diet('swamp wallaby', 'herbivore').
+diet('toucan', 'omnivore').
+diet('water deer', 'herbivore').
+diet('whitetail deer', 'herbivore').
+diet('golden retriever', 'omnivore').
+
+
+habitat('arctic hare', 'arctic tundra').
+habitat('red panda', 'temperate forests').
+habitat('snowy owl', 'tundra').
+habitat('alpine ibex', 'mountains').
+habitat('kangaroo rat', 'desert').
+habitat('proboscis monkey', 'jungle').
+habitat('African spurred tortoise', 'desert').
+habitat('Andean mountain cat', 'mountain').
+habitat('Cassowary', 'tropical forests and wetlands').
+habitat('Coelacanth', 'saltwater').
+habitat('Giraffe', 'savannas and woodlands').
+habitat('Honey Badger', 'savannas, forests').
+habitat('Japanese Macaque', 'broadleaf forests').
+habitat('Kangaroo', 'grasslands and forests').
+habitat('Komodo dragon', ['grassland', 'savanna', 'jungle']).
+habitat('Octopus', 'ocean floor').
+habitat('Peregrine falcon', ['grassland', 'forest', 'mountain', 'city', 'tundra', 'coastal', 'mountain']).
+habitat('Red-crowned crane', 'wetlands, marshlands and rivers').
+habitat('Snow Crab', 'cold ocean bottoms').
+habitat('Snub-nosed monkey', 'mountain forest').
+habitat('Squirrel', 'hardwood and coniferous forests').
+habitat('Taipan', 'desert').
+habitat('Tibetan fox', 'mountain').
+habitat('Tomato Frog', 'rainforests and swamps').
+habitat('Tufted Deer', 'forest').
+habitat('Wolverine', 'forests and tundra').
+habitat('alaskan wolf', 'tundra').
+habitat('axolotl', 'freshwater lakes and canals').
+habitat('barn owl', ['grasslands', 'farmlands']).
+habitat('bobcat', 'mountains').
+habitat('camel', 'desert').
+habitat('catfish', 'saltwater').
+habitat('cheetah', 'grasslands, savannahs').
+habitat('elephant', 'savannahs, forests, and grasslands').
+habitat('ermine', 'woodlands').
+habitat('fennec fox', 'desert').
+habitat('gibbon', 'jungle').
+habitat('grey wolf', 'forests').
+habitat('grizzly bear', 'forest').
+habitat('hippo', 'freshwater lakes').
+habitat('hummingbird', 'meadow').
+habitat('iguana', 'rainforest').
+habitat('kangaroo', 'varied habitats including forests, grasslands, and deserts').
+habitat('komodo dragon', 'tropical forests').
+habitat('lemur', 'forest').
+habitat('lion', 'savannah').
+habitat('lynx', 'forest, mountains').
+habitat('moose', 'forest').
+habitat('narwhal', 'saltwater').
+habitat('ocelot', 'jungle').
+habitat('panda', 'bamboo forests').
+habitat('parrot', 'forests').
+habitat('penguin', 'icebergs').
+habitat('pig', ['grasslands', 'forests']).
+habitat('platypus', 'rivers and streams with burrows in riverbanks').
+habitat('prairie dog', 'grasslands').
+habitat('quokka', 'coastal scrubland').
+habitat('raccoon', 'wetlands').
+habitat('red fox', 'forests').
+habitat('red panda', 'bamboo forests').
+habitat('seahorse', 'West Atlantic & Indo-Pacific Region').
+habitat('sloth', 'rainforest').
+habitat('snail', 'freshwater habitats').
+habitat('snow leopard', 'mountain ranges').
+habitat('snowshoe hare', 'boreal forest').
+habitat('swallowtail butterfly', 'grassland').
+habitat('tardigrade', 'moss, lichen, soil, and even underwater').
+habitat('tiger', 'jungle').
+habitat('woodpecker', 'forest').
+habitat('yak', 'mountains').
+habitat('zebra', 'savanna').
+habitat('bald_eagle', 'forests, coasts').
+
+habitat('giraffe', 'savannah').
+habitat('red_kangaroo', 'grasslands').
+habitat('African Elephant', 'savannah').
+habitat('American Crow', 'open woods').
+habitat('Arctic Fox', 'tundra').
+habitat('Chameleon', 'rainforests').
+habitat('Goblin Shark', 'salt water').
+habitat('Meerkat', 'savannas and grasslands').
+habitat('Puma', 'mountainous').
+habitat('Red Kangaroo', 'grasslands').
+habitat('axolotl', 'wetlands').
+habitat('bald eagle', 'coasts and lakes').
+habitat('black bear', 'forests').
+habitat('blobfish', 'deep ocean').
+habitat('blue whale', 'salt water').
+habitat('capybara', 'wetland').
+habitat('caspian whipsnake', 'grasslands').
+habitat('cheetah', 'savannah').
+habitat('crocodile', 'freshwater').
+habitat('dolphin', 'salt water').
+habitat('fossa', 'forests').
+habitat('hawk', 'forests').
+habitat('hedgehog', 'woodland').
+habitat('hoatzin', 'swamps, forests, freshwater mangroves').
+habitat('hyena', 'savannas, grasslands, woodlands, and sub-deserts').
+habitat('iguana', 'tropical rainforest').
+habitat('kinkajou', 'forest').
+habitat('maned wolf', 'grasslands and forests').
+habitat('northern cardinal', 'woodlands').
+habitat('ocelot', 'thorn scrub, coastal marshes, mangrove, and tropical forests').
+habitat('pangolin', 'rainforests, grasslands').
+habitat('swamp wallaby', 'swamp').
+habitat('toucan', 'rainforest').
+habitat('water deer', 'wetlands').
+habitat('whitetail deer', 'forests').
+habitat('golden retriever', 'domesticated').
+
+region('arctic hare', 'Northern Canada').
+region('red panda', 'Eastern Himalayas').
+region('snowy owl', 'Northern America').
+region('alpine ibex', 'European Alps').
+region('kangaroo rat', 'North America').
+region('proboscis monkey', 'Southeast Asia').
+region('African spurred tortoise', 'Africa').
+region('Andean mountain cat', 'South America').
+region('Cassowary', 'Australia, New Guinea').
+region('Coelacanth', ['Africa', 'Asia']).
+region('Giraffe', 'Africa').
+region('Hippo', 'Africa').
+region('Honey Badger', 'Africa, Asia').
+region('Japanese Macaque', 'Japan').
+region('Kangaroo', 'Australia').
+region('Komodo dragon', 'Asia').
+region('Octopus', 'oceans worldwide').
+region('Peregrine falcon', ['Asia', 'Australia', 'North America', 'Europe', 'South America', 'Africa']).
+region('Red-crowned crane', 'East Asia').
+region('Snow Crab', 'Arctic, Atlantic, & Pacific Ocean').
+region('Snub-nosed monkey', 'China').
+region('Squirrel', 'North America').
+region('Taipan', 'Australia').
+region('Tibetan fox', 'East Asia').
+region('Tomato Frog', 'Madagascar').
+region('Tufted Deer', 'East Asia').
+region('Wolverine', 'Canada, Alaska, Siberia').
+region('alaskan wolf', 'Alaska').
+region('axolotl', 'Mexico').
+region('barn owl', ['North America', 'South America', 'Africa', 'Asia', 'Europe', 'Australia']).
+region('bobcat', 'North America').
+region('camel', 'Africa and Asia').
+region('catfish', 'all oceans').
+region('cheetah', 'Africa').
+region('elephant', 'Africa and Asia').
+region('ermine', 'North America').
+region('fennec fox', 'Africa').
+region('gibbon', 'Asia').
+region('grey wolf', 'Europe').
+region('grizzly bear', 'North America').
+region('hummingbird', 'North America').
+region('iguana', 'South America').
+region('kangaroo', 'Australia').
+region('komodo dragon', 'Indonesia').
+
+region('lemur', 'Madagascar').
+region('lion', 'Africa, Asia').
+region('lynx', 'Eurasia, Europe, North America').
+region('moose', 'North America').
+region('morkie', 'Indoor').
+region('narwhal', 'All Oceans').
+region('northern flying squirrel', 'Taiga').
+region('ocelot', ['North America', 'South America']).
+region('panda', 'China').
+region('parrot', 'Tropical Regions').
+region('penguin', 'Antarctica').
+region('persian longhair', 'Indoor').
+region('pig', ['Europe', 'Asia']).
+region('platypus', 'Australia').
+region('platypus', 'Eastern Australia').
+region('prairie dog', 'North America').
+region('quokka', 'Australia').
+region('raccoon', 'North America').
+region('red fox', 'Alaska').
+region('red panda', 'Asia').
+region('red panda', 'China').
+region('seahorse', 'Coastal Waters').
+region('sloth', 'South America').
+region('snail', 'Worldwide').
+region('snow leopard', 'Central and South Asia').
+region('snowshoe hare', 'Canada').
+region('swallowtail butterfly', 'North America').
+region('tardigrade', 'Found almost everywhere, including oceans, mountains, and even space').
+region('tiger', 'Asia').
+region('woodpecker', 'North America').
+region('yak', 'Asia').
+region('zebra', 'Africa').
+region('bald_eagle', 'North America').
+region('giraffe', 'Africa').
+region('red_kangaroo', 'Australia').
+region('African Elephant', 'Africa').
+region('American Crow', 'North America').
+region('Arctic Fox', 'Arctic').
+region('Budgerigar', 'Australia').
+region('Goblin Shark', 'Worldwide').
+
+
+region('Musk ox', 'Arctic').
+region('Oryx', 'Africa').
+region('Red Kangaroo', 'Australia').
+region('axolotl', 'North America').
+region('bald eagle', 'North America').
+region('black bear', 'North America').
+region('blobfish', 'Australia').
+region('blue whale', 'All Oceans').
+region('capybara', 'South America').
+region('caspian whipsnake', 'Europe').
+region('cheetah', 'North, South, East Africa').
+region('crocodile', 'Africa, Asia, the Americas, Australia').
+region('dolphin', 'All Oceans').
+region('fossa', 'Madagascar').
+region('hawk', 'Worldwide').
+region('hedgehog', 'Various').
+region('hoatzin', 'South America').
+region('hyena', 'Africa').
+region('iguana', 'Mexico, Central America, South America, and the Caribbean').
+region('kinkajou', 'South America').
+region('maned wolf', 'South America').
+region('northern cardinal', 'North America and parts of South America').
+region('ocelot', 'North America, Mexico, Central America, and northern Argentina').
+region('pangolin', 'Asia, Africa').
+region('swamp wallaby', 'Australia').
+region('toucan', 'Central and South America').
+region('water deer', 'China and Korea').
+region('whitetail deer', 'North America').
+region('golden retriever', 'Scotland').
+
+reproduction('arctic hare', 'viviparous').
+reproduction('red panda', 'viviparous').
+reproduction('snowy owl', 'ovoviviparous').
+reproduction('alpine ibex', 'viviparous').
+reproduction('kangaroo rat', 'viviparous').
+reproduction('proboscis monkey', 'viviparous').
+reproduction('African spurred tortoise', 'oviparous').
+reproduction('Andean mountain cat', 'viviparous').
+reproduction('Cassowary', 'oviparous').
+reproduction('Coelacanth', 'viviparous').
+reproduction('Giraffe', 'viviparous').
+reproduction('Honey Badger', 'viviparous').
+reproduction('Japanese Macaque', 'viviparous').
+reproduction('Kangaroo', 'viviparous').
+reproduction('Komodo dragon', 'oviparous').
+reproduction('Octopus', 'oviparous').
+reproduction('Peregrine falcon', 'oviparous').
+reproduction('Red-crowned crane', 'oviparous').
+reproduction('Snow Crab', 'oviparous').
+reproduction('Snub-nosed monkey', 'live').
+reproduction('Squirrel', 'live').
+reproduction('Taipan', 'oviparous').
+reproduction('Tibetan fox', 'live').
+reproduction('Tomato Frog', 'oviparous').
+reproduction('Tufted Deer', 'live').
+reproduction('Wolverine', 'viviparous').
+reproduction('alaskan wolf', 'viviparous').
+reproduction('axolotl', 'live').
+reproduction('axolotl', 'live birth (can regenerate limbs)').
+
+reproduction('barn owl', 'oviparous').
+reproduction('bobcat', 'live').
+reproduction('camel', 'live').
+reproduction('capybara', 'live').
+reproduction('catfish', 'monogamous').
+reproduction('catfish', 'oviparous').
+reproduction('cheetah', 'viviparous').
+reproduction('elephant', 'live').
+reproduction('ermine', 'live').
+reproduction('fennec fox', 'live').
+reproduction('gibbon', 'live').
+reproduction('grey wolf', 'live').
+reproduction('grizzly bear', 'viviparous').
+reproduction('hippo', 'live').
+reproduction('hummingbird', 'oviparous').
+reproduction('iguana', 'oviparous').
+reproduction('kangaroo', 'marsupial').
+reproduction('komodo dragon', 'oviparous').
+reproduction('lemur', 'live').
+reproduction('lion', 'live').
+reproduction('lynx', 'live').
+reproduction('moose', 'viviparous').
+reproduction('morkie', 'viviparous').
+reproduction('narwhal', 'live').
+reproduction('northern flying squirrel', 'viviparous').
+reproduction('ocelot', 'live').
+reproduction('panda', 'live').
+reproduction('parrot', 'oviparous').
+reproduction('penguin', 'oviparous').
+reproduction('persian longhair', 'viviparous').
+reproduction('pig', 'live').
+reproduction('platypus', 'egg-laying').
+reproduction('platypus', 'oviparous').
+reproduction('platypus', 'egg-laying (unique venomous spur on males)').
+reproduction('prairie dog', 'live').
+reproduction('quokka', 'marsupial').
+reproduction('raccoon', 'live').
+reproduction('red fox', 'viviparous').
+reproduction('red panda', 'live').
+
+reproduction('sloth', 'viviparous').
+reproduction('snail', 'oviparous').
+reproduction('snow leopard', 'live').
+reproduction('snowshoe hare', 'viviparous').
+reproduction('swallowtail butterfly', 'oviparous').
+reproduction('tardigrade', 'can survive extreme conditions and reproduce asexually').
+reproduction('tiger', 'viviparous').
+reproduction('woodpecker', 'oviparous').
+reproduction('yak', 'live').
+reproduction('zebra', 'live').
+reproduction('bald_eagle', 'oviparous').
+reproduction('giraffe', 'live').
+reproduction('red_kangaroo', 'viviparous').
+reproduction('African Elephant', 'live').
+reproduction('American Crow', 'oviparous').
+reproduction('Arctic Fox', 'live').
+reproduction('Basilisk', 'oviparous').
+reproduction('Cat', 'live').
+reproduction('Corals', 'blastogenesis').
+reproduction('Goblin Shark', 'live').
+reproduction('Red Kangaroo', 'live').
+reproduction('bald eagle', 'oviparous').
+reproduction('black bear', 'viviparous').
+reproduction('blobfish', 'oviparous').
+reproduction('blue whale', 'viviparous').
+reproduction('capybara', 'live').
+reproduction('caspian whipsnake', 'oviparous').
+reproduction('cheetah', 'live').
+reproduction('crocodile', 'oviparous').
+reproduction('dolphin', 'live').
+reproduction('fossa', 'live').
+reproduction('hawk', 'oviparous').
+reproduction('hedgehog', 'live').
+reproduction('hoatzin', 'oviparous').
+reproduction('hyena', 'live').
+reproduction('iguana', 'oviparous').
+reproduction('kinkajou', 'live').
+reproduction('maned wolf', 'live').
+reproduction('northern cardinal', 'oviparous').
+reproduction('ocelot', 'live').
+reproduction('pangolin', 'viviparous').
+reproduction('swamp wallaby', 'viviparous').
+reproduction('toucan', 'oviparous').
+reproduction('water deer', 'live').
+reproduction('whitetail deer', 'viviparous').
+reproduction('golden retriever', 'live').
